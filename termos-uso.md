@@ -1,3 +1,12 @@
+---
+hide:
+  - navigation
+  - feedback
+tags:
+  - Termos de uso
+version: 
+  - 2026-04-28
+---
 ## Aspectos Legais e Responsabilidades
 
 A publicação e a manutenção dos conteúdos dos repositórios desta organização são realizadas pelo Núcleo de Inovação e Modernização do Instituto Mineiro de Agropecuária - IMA.
@@ -45,3 +54,5 @@ A publicação e a manutenção dos conteúdos dos repositórios desta organiza�
 - **Atualização dos Termos de Uso**
 
     - Este documento poderá ser alterado pelo NIM/IMA-MG a qualquer momento que julgar conveniente. A data da modificação será registrada na área superior da primeira página deste documento.
+ 
+
